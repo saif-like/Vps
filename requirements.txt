@@ -1,6 +1,5 @@
 pyTelegramBotAPI
 requests
-requests
 httpx
 google
 protobuf
@@ -12,3 +11,6 @@ protobuf-decoder
 pytz
 aiohttp
 cfonts
+requests
+urllib3
+python-telegram-bot
